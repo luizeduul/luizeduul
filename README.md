@@ -6,5 +6,5 @@
 - 📫 How to reach me: in Discord Ledz_ul#6578
 
 ### Contacts
-[![Linkedin URL](https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Flinkedin.com%2Fin%2Fluizeduul)]
+[![Linkedin Badge](https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Flinkedin.com%2Fin%2Fluizeduul)]
 
