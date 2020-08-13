@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, i'm Luiz Eduardo 👋
 
-<!--
-**luizeduul/luizeduul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou atualmente aprendendo React, React Native
+- 👯 Gostaria de contribuir com projetos e aplicações ReactJS e React Native.
+- 📫 Como me encontrar: No Discord Ledz_ul#6578
+
+---
+
+- 🌱 I’m currently learning React, React Native
+- 👯 I'm looking to collaborate with ReactJS and React Native applications.
+- 📫 How to reach me: in Discord Ledz_ul#6578
+
