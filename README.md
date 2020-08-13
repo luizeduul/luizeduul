@@ -7,5 +7,8 @@
 - 👯 I'm looking to collaborate with ReactJS and React Native applications.
 - 📫 How to reach me: in Discord Ledz_ul#6578
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=luizeduul)](https://github.com/luizeduul/github-readme-stats)
+
+
 
 
