@@ -1,6 +1,4 @@
-### Hi, I'm Luiz Eduardo 👋
-
-### Contacts
+## Hi, I'm Luiz Eduardo 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LuizEdu-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizeduul/)](https://www.linkedin.com/in/luizeduul/) 
 
