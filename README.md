@@ -1,5 +1,3 @@
-## Hi, I'm Luiz Eduardo 👋
-
 <h1 align="center">Hi 👋, I'm Luiz Uliana</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
