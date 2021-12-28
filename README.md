@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizeduul&label=Profile%20views&color=0e75b6&style=flat" alt="luizeduul" /> </p>
 
-- 🌱 I’m currently learning **React and React Native**
+- 👨🏻‍💻 I'm currently a frontend developer at Gredom Sistemas
+
+- 🌱 I’m learning **React and React Native**
 
 - 👯 I’m looking to collaborate on **ReactJS React Native applications.**
 
