@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJS React Native applications.**
 
-- 📫 How to reach me in **Discord Ledz_ul#6578**
+- 📫 How to reach me in **Discord Ledz_ul**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
